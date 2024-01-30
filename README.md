@@ -22,7 +22,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>India</b> 」
     <br>
