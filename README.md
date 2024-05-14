@@ -79,7 +79,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=hxrleen&label=Profile%20views&color=0e75b6&style=flat" alt="hxrleen" />  </p>
+
 ![Harleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxrleen\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hxrleen&theme=midnight-purple)](https://git.io/streak-stats)
